@@ -13,6 +13,8 @@ Current microservices [dependencies](http://tracing.fidesy.tech/dependencies)
 
 * Login http://pay.fidesy.tech/login
 
+* Overview http://pay.fidesy.tech/overview
+
 * Profile http://pay.fidesy.tech/profile
 
 * Invoice http://pay.fidesy.tech/invoices/invoice-uuid
